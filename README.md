@@ -28,12 +28,12 @@
 - [7. الاختبارات والتحقق](#7-الاختبارات-والتحقق)
 - [8. الأداء والتحسينات المستقبلية](#8-الأداء-والتحسينات-المستقبلية)
 - [9. الجانب الأكاديمي](#9-الجانب-الأكاديمي)
+- [المساهمون](#contributors)
 - [10. الخاتمة](#10-الخاتمة)
 - [هيكل المجلدات](#هيكل-المجلدات)
 - [المشاهد المتاحة](#المشاهد-المتاحة)
 - [اختصارات التحكم](#اختصارات-التحكم)
 - [ملاحظات مهمة](#ملاحظات-مهمة)
-
 ---
 
 # 1. مقدمة عامة
@@ -629,6 +629,28 @@ C:\Users\<User>\AppData\LocalLow\<CompanyName>\<ProductName>\
 يصلح المشروع لدراسة Fluid Simulation وGPU Computing وNumerical Stability وSpatial Hashing وRendering Pipelines وSerialization وPerformance Profiling وتصميم الأنظمة الهجينة.
 
 ---
+
+
+# Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fouaddalloul1">
+        <img
+          src="https://github.com/fouaddalloul1.png"
+          width="100px"
+          alt="Fouad Dalloul"
+        />
+        <br />
+        <strong>Fouad Dalloul</strong>
+      </a>
+      <br />
+      Project Contributor
+    </td>
+  </tr>
+</table>
+
 
 # 10. الخاتمة
 
