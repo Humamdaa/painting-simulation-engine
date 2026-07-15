@@ -736,35 +736,6 @@ Kernel at index is invalid
 Property (...) at kernel index (...) is not set
 ```
 
-## ملفات Unity التي لا ترفع إلى Git
-
-```text
-Library/
-Temp/
-Obj/
-Logs/
-Build/
-Builds/
-UserSettings/
-.vs/
-```
-
-## الترخيص
-
-لم يتم تحديد ترخيص مفتوح المصدر افتراضيًا. أضف ملف `LICENSE` قبل السماح بإعادة الاستخدام العام.
-
-## المساهمة
-
-قبل Pull Request:
-
-1. افتح المشروع بإصدار Unity الصحيح.
-2. اختبر المشهد الرئيسي.
-3. تأكد من خلو Console من الأخطاء.
-4. اختبر Build على DX11.
-5. وثّق أي تغيير في Compute Shader.
-6. لا تغيّر البروفايلات الجاهزة دون توضيح.
-
----
 
 <div align="center">
 
